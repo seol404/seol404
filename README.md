@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Christina (Seohyeon) Lee.</h1>
-<h3 align="center">A passionate cybersecurity engineer from Houston, TX! Currently pursuing BS CS @ UT Austin with a concentration on cybersecurity. I plan on graduating December 2026.</h3>
+<h3 align="center">A passionate cybersecurity engineer from Houston, TX currently pursuing BS CS @ UT Austin with a concentration on cybersecurity. I plan on graduating December 2026.</h3>
 
 - 🔭 I’m currently working as a **Falcon Complete Analyst Intern at CrowdStrike and Regional Security Operations Center Analyst at UT Austin.**
 
 - 🔮 I'm planning to also work as a **Security Consultant for small businesses in Austin as a part of Applied Cybersecurity Clinic** this fall.
 
-- 🌱 I’m currently studying for **CompTIA Security+, Google Cybersecurity, CrowdStrike Certified Falcon Administrator (CCFA), and CrowdStrike Certified Falcon Responder (CCFR).**
+- 🌱 I’m currently studying for **CrowdStrike Certified Falcon Administrator (CCFA) and CrowdStrike Certified Falcon Responder (CCFR).**
 
 - 👯 I’m looking to collaborate on **Automation and developing Penetration Testing tools.**
 
 - 🤝 I’m looking for help with **offensive security, specifically eJPT and eventually OSCP.**
 
-- 📝 I journal my security and software journey (occassionally) on [https://x.com/chrixtinalee0](https://x.com/chrixtinalee0).
+- 📝 I occasionally document my security and software journey on [https://x.com/chrixtinalee0](https://x.com/chrixtinalee0).
 
-- 💬 Ask me about **linux and bash scripting.**
+- 💬 Ask me about **Linux and Bash Scripting.**
 
 - 📫 You can reach me through **seohyeonlee@utexas.edu or Linkedln down below!**
 
@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/christinaseohyeonlee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/christinaseohyeonlee/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/christinaseohyeonlee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/christinaseohyeonlee/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
