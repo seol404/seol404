@@ -11,8 +11,6 @@
 
 - 🤝 I’m looking for help with **offensive security, specifically eJPT and eventually OSCP.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/seol404](https://github.com/seol404).
-
 - 📝 I journal my security and software journey (occassionally) on [https://x.com/chrixtinalee0](https://x.com/chrixtinalee0).
 
 - 💬 Ask me about **linux and bash scripting.**
