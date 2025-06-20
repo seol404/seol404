@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Automation** and developing **Penetration Testing tools.**
 
-- 🤝 I’m looking for help with **offensive security, specifically **eJPT** and eventually **OSCP.**
+- 🤝 I’m looking for help with **offensive security**, specifically **eJPT** and eventually **OSCP.**
 
 - 📝 I occasionally document my security and software journey on [https://x.com/chrixtinalee0](https://x.com/chrixtinalee0).
 
