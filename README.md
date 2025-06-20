@@ -1,25 +1,25 @@
 <h1 align="center">Hi 👋, I'm Christina (Seohyeon) Lee.</h1>
 <h3 align="center">A passionate cybersecurity engineer from Houston, TX currently pursuing BS CS @ UT Austin with a concentration on cybersecurity. I plan on graduating December 2026.</h3>
 
-- 🔭 I’m currently working as a **Falcon Complete Analyst Intern at CrowdStrike and Regional Security Operations Center Analyst at UT Austin.**
+- 🔭 I’m currently working as a **Falcon Complete Analyst Intern** at **CrowdStrike** and **Regional Security Operations Center Analyst** at **UT Austin.**
 
-- 🔮 I'm planning to also work as a **Security Consultant for small businesses in Austin as a part of Applied Cybersecurity Clinic** this fall.
+- 🔮 I'm planning to also work as a **Security Consultant** for small businesses in Austin as a part of **Applied Cybersecurity Clinic** this fall.
 
-- 🌱 I’m currently studying for **CrowdStrike Certified Falcon Administrator (CCFA) and CrowdStrike Certified Falcon Responder (CCFR).**
+- 🌱 I’m currently studying for **CrowdStrike Certified Falcon Administrator (CCFA)** and **CrowdStrike Certified Falcon Responder (CCFR).**
 
-- 👯 I’m looking to collaborate on **Automation and developing Penetration Testing tools.**
+- 👯 I’m looking to collaborate on **Automation** and developing **Penetration Testing tools.**
 
-- 🤝 I’m looking for help with **offensive security, specifically eJPT and eventually OSCP.**
+- 🤝 I’m looking for help with **offensive security, specifically **eJPT** and eventually **OSCP.**
 
 - 📝 I occasionally document my security and software journey on [https://x.com/chrixtinalee0](https://x.com/chrixtinalee0).
 
 - 💬 Ask me about **Linux and Bash Scripting.**
 
-- 📫 You can reach me through **seohyeonlee@utexas.edu or Linkedln down below!**
+- 📫 You can reach me through **seohyeonlee@utexas.edu** or **Linkedln** down below!
 
 - 📄 Know about my experiences through my Resume: [https://docs.google.com/document/d/1ZhoG9scUgDGdc0Ir6d0tIUjBr3eUqX7QHTtdqw_v9aw/edit?usp=sharing](https://docs.google.com/document/d/1ZhoG9scUgDGdc0Ir6d0tIUjBr3eUqX7QHTtdqw_v9aw/edit?usp=sharing)
 
-- ⚡ Fun fact: **I like to ice skate ⛸️ and sing 🎤 in my free time!**
+- ⚡ Fun fact: I like to **ice skate ⛸️** and **sing 🎤** in my free time!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
