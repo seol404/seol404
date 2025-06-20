@@ -1,21 +1,23 @@
 <h1 align="center">Hi 👋, I'm Christina (Seohyeon) Lee.</h1>
 <h3 align="center">A passionate cybersecurity engineer from Houston, TX! Currently pursuing BS CS @ UT Austin with a concentration on cybersecurity.</h3>
 
-- 🔭 I’m currently working on **HackTheBox modules!**
+- 🔭 I’m currently working as a **Falcon Complete Analyst Intern at CrowdStrike and Regional Security Operations Center Analyst at UT Austin.**
 
-- 🌱 I’m currently learning **CCFA**
+- 🔮 I'm planning to also work as a **Security Consultant for small businesses in Austin as a part of Applied Cybersecurity Clinic** this fall.
 
-- 👯 I’m looking to collaborate on **Automation and developing offensive security tools.**
+- 🌱 I’m currently studying for **CompTIA Security+, Google Cybersecurity, CrowdStrike Certified Falcon Administrator (CCFA), and CrowdStrike Certified Falcon Responder (CCFR).**
 
-- 🤝 I’m looking for help with **offensive security, specifically eJPT and eventually OSCP**
+- 👯 I’m looking to collaborate on **Automation and developing Penetration Testing tools.**
+
+- 🤝 I’m looking for help with **offensive security, specifically eJPT and eventually OSCP.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/seol404](https://github.com/seol404)
 
 - 📝 I regularly write articles on [https://x.com/chrixtinalee0](https://x.com/chrixtinalee0)
 
-- 💬 Ask me about **linux and bash scripting**
+- 💬 Ask me about **linux and bash scripting.**
 
-- 📫 How to reach me **seohyeonlee@utexas.edu**
+- 📫 How to reach me: **Email: seohyeonlee@utexas.edu or Linkedln down below**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1ZhoG9scUgDGdc0Ir6d0tIUjBr3eUqX7QHTtdqw_v9aw/edit?usp=sharing](https://docs.google.com/document/d/1ZhoG9scUgDGdc0Ir6d0tIUjBr3eUqX7QHTtdqw_v9aw/edit?usp=sharing)
 
