@@ -15,8 +15,6 @@
 
 - 📫 You can reach me through **seohyeonlee@utexas.edu** or **Linkedln** down below!
 
-- 📄 Know about my experiences through my Resume: [https://docs.google.com/document/d/1ZhoG9scUgDGdc0Ir6d0tIUjBr3eUqX7QHTtdqw_v9aw/edit?usp=sharing](https://docs.google.com/document/d/1ZhoG9scUgDGdc0Ir6d0tIUjBr3eUqX7QHTtdqw_v9aw/edit?usp=sharing)
-
 - ⚡ Fun fact: I like to **ice skate ⛸️** and **sing 🎤** in my free time!
 
 <h3 align="left">Connect with me:</h3>
