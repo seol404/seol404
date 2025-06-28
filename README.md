@@ -11,8 +11,6 @@
 
 - 🤝 I’m looking for help with **offensive security**, specifically **eJPT** and eventually **OSCP.**
 
-- 📝 I occasionally document my security and software journey on [https://x.com/chrixtinalee0](https://x.com/chrixtinalee0).
-
 - 💬 Ask me about **Linux and Bash Scripting.**
 
 - 📫 You can reach me through **seohyeonlee@utexas.edu** or **Linkedln** down below!
