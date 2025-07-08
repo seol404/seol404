@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Christina (Seohyeon) Lee.</h1>
-<h3 align="center">A passionate cybersecurity engineer from Houston, TX currently pursuing BS CS @ UT Austin with a concentration on cybersecurity. I plan on graduating December 2026.</h3>
+<h3 align="center">A passionate security engineer from Houston, TX currently pursuing BS CS @ UT Austin with a concentration on cybersecurity. I plan on graduating December 2026.</h3>
 
 - 🔭 I’m currently working as a **Falcon Complete Analyst Intern** at **CrowdStrike** and **Regional Security Operations Center Analyst** at **UT Austin.**
 
@@ -10,8 +10,6 @@
 - 👯 I’m looking to collaborate on **Automation** and developing **Penetration Testing tools.**
 
 - 🤝 I’m looking for help with **offensive security**, specifically **eJPT** and eventually **OSCP.**
-
-- 💬 Ask me about **Linux and Bash Scripting.**
 
 - 📫 You can reach me through **seohyeonlee@utexas.edu** or **Linkedln** down below!
 
