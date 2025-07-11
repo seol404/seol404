@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently studying for **CrowdStrike Certified Falcon Administrator (CCFA)** and **CrowdStrike Certified Falcon Responder (CCFR).**
 
-- 👯 I’m looking to collaborate on **Automation** and developing **Penetration Testing tools.**
+- 👯 I’m looking to collaborate on **Automation** and developing **Blue Team tools.**
 
 - 🤝 I’m looking for help with **offensive security**, specifically **eJPT** and eventually **OSCP.**
 
