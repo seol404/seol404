@@ -5,11 +5,9 @@
 
 - 🔮 I'm planning to also work as a **Security Consultant** for small businesses in Austin as a part of **Applied Cybersecurity Clinic** this fall.
 
-- 🌱 I’m currently studying for **CrowdStrike Certified Falcon Administrator (CCFA)** and **CrowdStrike Certified Falcon Responder (CCFR).**
+- 🌱 I’m currently studying for **CompTIA Security+** and **CrowdStrike Certified Falcon Responder (CCFR).**
 
 - 👯 I’m looking to collaborate on **Automation** and developing **Blue Team tools.**
-
-- 🤝 I’m looking for help with **offensive security**, specifically **eJPT** and eventually **OSCP.**
 
 - 📫 You can reach me through **seohyeonlee@utexas.edu** or **Linkedln** down below!
 
