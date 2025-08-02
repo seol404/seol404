@@ -5,7 +5,7 @@
 
 - 🔮 I'm planning to also work as a **Security Consultant** for small businesses in Austin as a part of **Applied Cybersecurity Clinic** this fall.
 
-- 🌱 I’m currently studying for **CompTIA Security+** and **CrowdStrike Certified Falcon Responder (CCFR).**
+- 🌱 I’m currently studying for **CompTIA Security+** and **CrowdStrike Certified Identity Specialist (CCIS).**
 
 - 👯 I’m looking to collaborate on **Automation** and developing **Blue Team tools.**
 
