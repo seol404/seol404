@@ -11,7 +11,7 @@
 
 - 📫 You can reach me through **seohyeonlee@utexas.edu** or **Linkedln** down below!
 
-- ⚡ Fun fact: I like to **ice skate ⛸️, sing 🎤, and discover new music (especially 00's R&B and house) 🎵** in my free time!
+- ⚡ Fun fact: I like to **ice skate ⛸️, run 🏃, sing 🎤, and discover new music (especially 00's R&B and house) 🎵** in my free time!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
