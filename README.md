@@ -7,7 +7,7 @@
 
 - ⌚️ I am interested in the intersection of **technology**, **security**, and **finance**.
 
-- 🌱 I’m currently studying for **CompTIA Security+** and **Google Cybersecurity Certificate.**
+- 🌱 I’m currently studying for **CompTIA Security+**, **Google Cybersecurity Certificate**, and **OSCP**.
 
 - 👯 I’m looking to collaborate on **Automation** and developing **Blue Team tools.**
 
