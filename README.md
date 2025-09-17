@@ -5,7 +5,7 @@
   
 - 🔮 Previously, I was at **CrowdStrike** as a **Falcon Complete Analyst Intern**.
 
-- ⌚️ I am interested in the intersection of **technology**, **security**, and **finance**.
+- ⌚️ I am interested in the intersection of **AI/ML**, **software development**, **security**, and **finance**.
 
 - 🌱 I’m currently studying for **CompTIA Security+**, **Google Cybersecurity Certificate**, and **OSCP**.
 
