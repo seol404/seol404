@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Christina (Seohyeon) Lee.</h1>
 <h3 align="center">A passionate security/software engineer from Houston, TX currently pursuing BS CS @ UT Austin with a concentration on cybersecurity. I am set to graduate in May 2027.</h3>
 
-- 🔭 I’m currently working as a **Regional Security Operations Center Analyst** at **UT Austin** and **Security Consultant** at **Women's Storybook Project**.
+- 🔭 I’m currently working as a **Regional Security Operations Center Analyst** at **UT Information Security Office** and **undergraduate researcher** for Software Vulnerability Research using AI under **Dr. Seth Nielson**.
   
-- 🔮 Previously, I was at **CrowdStrike** as a **Falcon Complete Analyst Intern**.
+- 🔮 Previously, I was at **CrowdStrike** as a **Falcon Complete Analyst Intern** and Nonprofit **Women's Storybook Project** as a **Security Consultant**.
 
 - ⌚️ I am interested in the intersection of **software**, **security**, and **finance**.
 
