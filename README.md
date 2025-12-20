@@ -15,7 +15,7 @@
 
 - 📫 You can reach me through **seohyeonlee@utexas.edu** or **Linkedln** down below!
 
-- ⚡ Fun fact: I like to **ice skate ⛸️, run 🏃, sing 🎤,** play **League of Legends & Minesweeper 👾**, **discover new music (especially 00's R&B, Tropical/Deep House, and Miami Bass) 🎵**, and explore **options trading**📈 in my free time!
+- ⚡ Fun fact: I like to **ice skate ⛸️, run 🏃, sing 🎤,** play **League of Legends & Minesweeper 👾**, **discover new music (especially 00's R&B, Tropical/Deep House, and Miami Bass) 🎵** in my free time!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
