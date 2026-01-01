@@ -2,8 +2,6 @@
 <h3 align="center">A passionate security engineer from Houston, TX currently pursuing BS CS @ UT Austin with a concentration on cybersecurity. I am set to graduate in December 2026 / May 2027.</h3>
 
 - 🔭 I’m currently working as a **Regional Security Operations Center Analyst** at **UT Information Security Office** and **undergraduate researcher** for Software Vulnerability Research using AI under **Dr. Seth Nielson**.
-
-- 🔎 I'll be working as a **Security Consultant Intern** at **Google** this summer.
   
 - 🔮 Previously, I was at **CrowdStrike** as a **Falcon Complete Analyst Intern** and Nonprofit **Women's Storybook Project** as a **Security Consultant**.
 
