@@ -13,6 +13,8 @@
 
 - 📫 You can reach me through **seohyeonlee@utexas.edu** or **Linkedln** down below!
 
+- 📝 I also maintain a blog where I write about vulnerabilities that interests me — please check it out!: substack.com/@chrixtinalee
+
 - ⚡ Fun fact: I like to **ice skate ⛸️, run 🏃, sing 🎤,** play **League of Legends & Minesweeper 👾**, **discover new music (especially 00's R&B, Tropical/Deep House, and Miami Bass) 🎵** in my free time!
 
 <h3 align="left">Connect with me:</h3>
