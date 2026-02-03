@@ -5,11 +5,11 @@
   
 - 🔮 Previously, I was at **CrowdStrike** as a **Falcon Complete Analyst Intern** and Nonprofit **Women's Storybook Project** as a **Security Consultant**.
 
-- ⌚️ I am interested in the intersection of **security**, **software**, **entrepreneurship**, and **finance**.
+- ⌚️ I am interested in the intersection of **security**, **software**, **entrepreneurship**, and **quantitative finance**.
 
-- 🌱 I’m currently studying for **CompTIA Security+**, **Google Cybersecurity Certificate**, and **OSCP**.
+<!-- - 🌱 I’m currently studying for **CompTIA Security+**, **Google Cybersecurity Certificate**, and **OSCP**. -->
 
-- 👯 I’m looking to collaborate on **Automation** and developing **Blue Team tools.**
+- 👯 I’m looking to collaborate on **application security** and **code-level security.**
 
 - 📫 You can reach me through **seohyeonlee@utexas.edu** or **Linkedln** down below!
 
