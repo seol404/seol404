@@ -5,7 +5,7 @@
   
 - 🔮 Previously, I was at **CrowdStrike** as a **Falcon Complete Analyst Intern** and Nonprofit **Women's Storybook Project** as a **Security Consultant**.
 
-- ⌚️ I am interested in the intersection of **security**, **software**, **entrepreneurship**, and **quantitative finance**.
+- ⌚️ I am interested in the intersection of **security**, **software**, **entrepreneurship**, and **finance**.
 
 <!-- - 🌱 I’m currently studying for **CompTIA Security+**, **Google Cybersecurity Certificate**, and **OSCP**. -->
 
