@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Christina (Seohyeon) Lee.</h1>
-<h3 align="center">A passionate security engineer from Houston, TX currently pursuing BS CS @ UT Austin with a concentration on cybersecurity.</h3>
+<h3 align="center">A passionate security software engineer from Houston, TX currently pursuing BS CS @ UT Austin with a concentration on cybersecurity.</h3>
 
 - 🔭 I’m currently working as a **Regional Security Operations Center Analyst** at **UT Information Security Office** and **undergraduate researcher** for Software Vulnerability Research using AI under **Dr. Seth Nielson**.
   
